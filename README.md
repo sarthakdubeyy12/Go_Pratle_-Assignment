@@ -18,19 +18,7 @@ This project was built as part of a technical assignment and is designed to demo
 
 ---
 
-## 📁 Folder Structure
-
-product-api/
-├── controllers/
-│   └── productController.js    # All business logic & API handlers
-├── routes/
-│   └── productRoutes.js        # Express routes for /products
-├── app.js                      # Main entry point of the app
-├── package.json
-├── README.md                   # You’re reading it!
-└── .gitignore
-
-Install dependencies
+Install dependencies:-
 
 npm install
 
